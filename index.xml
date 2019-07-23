@@ -1,31 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>我的第一个博客</title>
-    <link>http://xmmarlowe.github.io/</link>
-    <description>Recent content on 我的第一个博客</description>
+    <title>Hugo Theme Dream</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Hugo Theme Dream</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Sun, 21 Apr 2019 19:57:06 +0800</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://xmmarlowe.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>- About -</title>
-      <link>http://xmmarlowe.github.io/post/about/</link>
-      <pubDate>Sun, 21 Apr 2019 19:57:06 +0800</pubDate>
+      <title>Markdown Syntax Guide</title>
+      <link>https://example.com/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://xmmarlowe.github.io/post/about/</guid>
-      <description>~嘀嘀嘀~
-先咕咕咕一段时间，最近太忙了。
-立flag5月完成博客的全部搭建。
-本人是加油,很喜欢OnePlus的一些元素,本人所采用的特色图很多都是ShotOnOnePlus。
-本站的帖子基本上在其它论坛都有发布,这里主要是我自己的一个小天地，收集自己的资源。
-虽然博客纯开源，并不代表我所有的博客（文章+图片+部分设计文件）可以任意挂名使用。 所有权归我本人所有!转载请注明出处！谢谢合作！
-本人邮箱： Jzsst@qq.com  &amp;lt;友情链接&amp;gt;
-[Shot On OnePlus]&amp;mdash; [一加社区]&amp;mdash; [A&amp;amp;C实验室]&amp;mdash; [GitHub]&amp;mdash; [CSDN]
- 全站访问量:次  </description>
+      <guid>https://example.com/post/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://example.com/post/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://example.com/post/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://example.com/post/test/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/test/</guid>
+      <description>&lt;p&gt;Just a test.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/about/desc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/desc/</guid>
+      <description>Welcome to Hugo Theme Dream.
+View http://g1eny0ung.site/hugo-theme-dream for more details.</description>
     </item>
     
   </channel>
